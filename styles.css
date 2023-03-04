@@ -1,0 +1,45 @@
+
+    .profile-picture {
+        width: 150px ;
+        height: 150px;
+        border-radius: 50px;
+        border-color: black;
+        border-style: inset;
+        border-width: 3px;
+        float: center;
+        margin-left: 580px;
+        
+
+    }
+
+    .header {
+        font-weight: bold;
+        font-style: normal;
+        margin-left: 450px;
+        
+    }
+    .intro {
+        font-weight: bold;
+        font-style: normal;
+        margin-left: 550px;
+        
+    }
+
+    .email {
+        font-style: italic;
+        margin-left: 580px;
+    }
+    .facebook-profile{
+        background-color: none;
+        margin-left: 525px;
+    }
+    .github-profile{
+        background-color: none;
+        margin-left: 10px;
+    }
+
+    .button{
+        background-color: darkgray;
+        margin-left: 600px;
+        float:center;
+    }
